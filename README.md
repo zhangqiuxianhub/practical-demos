@@ -1,2 +1,2 @@
-# demos-in-my-practical-life
-store some simple demos of Java
+# 继承之向上转型与向下转型
+包括了接口中的string常量与对应implement变量的equals示例
